@@ -68,8 +68,8 @@ Este proyecto es de código abierto y está disponible para contribuciones. Si d
 Integrantes/
 │
 ├── 29896694 Álvarez Sierra José María josex2006ts@gmail.com
-├── 30021568 Lamas Lizardo Enirson Leandro
-├── 28027951 Cordero Mora Alejandro Josué
-├── 25367687 Montana Cabaña Kevin Bryan
+├── 30021568 Lamas Lizardo Enirson Leandro enirson.lamas.16@gmail.com
+├── 28027951 Cordero Mora Alejandro Josué alexx.74333@gmail.com
+├── 25367687 Montana Cabaña Kevin Bryan kevin.bryan.itz@gmail.com
 │
 ```
