@@ -1,0 +1,62 @@
+body {
+    background-color: #e9ebee;
+}
+
+.card {
+    margin-top: 1em;
+}
+
+/* IMG displaying */
+.person-card {
+    margin-top: 5em;
+    padding-top: 5em;
+}
+.person-card .card-title{
+    text-align: center;
+}
+.person-card .person-img{
+    width: 10em;
+    position: absolute;
+    top: -5em;
+    left: 50%;
+    margin-left: -5em;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: white;
+}
+
+table thead tr th
+{
+    font-size:18px;
+    text-align:center;
+}
+table tbody tr td
+{
+    font-size:12px;
+    text-align:center;
+}
+/* capa de efecto para LOGIN*/
+.capa{
+    background: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    z-index: 4;
+    width: 100%;
+    height: 100%;
+    top: 0;
+
+  }
+  .loadcss{
+    position:absolute;
+    z-index: 2;
+    text-align: center;
+    color: white;
+  }
+  .contentLoad{
+    background: #fff;
+      position: absolute;
+      z-index: 40;
+      margin: 20rem auto;
+      left: 0;
+      right: 0;
+  }
+/* capa de efecto LOGIN */
