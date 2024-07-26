@@ -5,24 +5,25 @@
 "Biblioteca Digital" es una plataforma educativa desarrollada para la gestión y consulta de una colección de libros y materiales de lectura. Este proyecto está destinado a fines educativos y se utiliza para evaluar habilidades en el desarrollo de software.
 
 ## Estructura del Proyecto
-biblioteca/
+```
+biblioteca-digital/
 │
-├── controlador/ # Controladores en JS
-├── css/ # Archivos CSS
-├── cx.php # Conexión a la base de datos
-├── favicon.ico # Icono del sitio
-├── font/ # Archivos de fuentes
-├── img/ # Imágenes
-├── index.php # Punto de entrada principal
-├── js/ # Archivos JavaScript
-├── librerias/ # Librerías externas
-├── metadata/ # Metadatos
-├── modelo/ # Modelos de datos
-├── sprites/ # Archivos de sprites
-├── svgs/ # Archivos SVG
-├── view/ # Vistas de la aplicación
-└── webfonts/ # Fuentes web
-
+├── controlador/         # Controladores en JS
+├── css/                 # Archivos CSS
+├── cx.php               # Conexión a la base de datos
+├── favicon.ico          # Icono del sitio
+├── font/                # Archivos de fuentes
+├── img/                 # Imágenes
+├── index.php            # Punto de entrada principal
+├── js/                  # Archivos JavaScript
+├── librerias/           # Librerías externas
+├── metadata/            # Metadatos
+├── modelo/              # Modelos de datos
+├── sprites/             # Archivos de sprites
+├── svgs/                # Archivos SVG
+├── view/                # Vistas de la aplicación
+└── webfonts/            # Fuentes web
+```
 
 ## Características Principales
 - **Catálogo de Libros**: Información detallada de cada libro, incluyendo título, autor, género, fecha de publicación y sinopsis.
@@ -51,7 +52,7 @@ git clone https://github.com/tu-usuario/biblioteca-digital.git
 - **Puedes usar php -S 127.0.0.1:8000 para iniciar un servidor de desarrollo.**
 
 ## Uso
-- **Accede a http://localhost/biblioteca-digital en tu navegador para interactuar con la aplicación.**
+- **Accede a http://localhost/ en tu navegador para interactuar con la aplicación.**
 
 ## Contribución
 Este proyecto es de código abierto y está disponible para contribuciones. Si deseas colaborar, por favor sigue los siguientes pasos:
@@ -62,3 +63,13 @@ Este proyecto es de código abierto y está disponible para contribuciones. Si d
 - **Crea un pull request detallando tus cambios.**
 - **Licencia**
 - **Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.**
+
+```
+Integrantes/
+│
+├── 29896694 Álvarez Sierra José María josex2006ts@gmail.com
+├── 30021568 Lamas Lizardo Enirson Leandro
+├── 28027951 Cordero Mora Alejandro Josué
+├── 25367687 Montana Cabaña Kevin Bryan
+│
+```
